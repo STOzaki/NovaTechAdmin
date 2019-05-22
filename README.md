@@ -15,4 +15,3 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDial
 spring.jpa.hibernate.ddl-auto=update
 ```
 ## Jenkins
-get ip
